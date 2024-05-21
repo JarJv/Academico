@@ -6,3 +6,4 @@ Um único repositório com todas as minhas atividades de curso superior, para me
 - [Exercícios de estruturas de repetição COLAB](https://github.com/JarJv/Academico/blob/5fbb24c59d79a8f5e8fe7a23862562f5e5748e07/EstruturasRepeticaoFATEC_de_JO%C3%83O_VICTOR_DA_SILVA_JARDIM.ipynb)
 - [Exercícios de estruturas de repetição COLAB - 2ª lista](https://github.com/JarJv/Academico/blob/7a68d92520e9f2f4b0aa24d6b56731316b769a24/Lista_2_La%C3%A7os_de_Repeti%C3%A7%C3%A3o_de_Jo%C3%A3o_Victor_da_Silva_Jardim.ipynb)
 - [Exercícios de listas, tuplas e dicionários COLAB](https://github.com/JarJv/Academico/blob/31c61f6bba30ac9846a8390ef62c170434b8d361/Listas_Tuplas_Dicionarios_de_Jo%C3%A3o_Victor_da_Silva_Jardim.ipynb)
+- [Exercícios de função COLAB](https://github.com/JarJv/Academico/blob/e22dfe266ea282eed725878bd6802a2a2671b72f/Fun%C3%A7%C3%B5es_FATEC_de_Jo%C3%A3o_Victor_da_Silva_Jardim.ipynb)
