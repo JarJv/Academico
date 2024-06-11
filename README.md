@@ -8,4 +8,4 @@ Um único repositório com todas as minhas atividades de curso superior, para me
 - [Exercícios de listas, tuplas e dicionários COLAB](https://github.com/JarJv/Academico/blob/31c61f6bba30ac9846a8390ef62c170434b8d361/Listas_Tuplas_Dicionarios_de_Jo%C3%A3o_Victor_da_Silva_Jardim.ipynb)
 - [Exercícios de função COLAB](https://github.com/JarJv/Academico/blob/e22dfe266ea282eed725878bd6802a2a2671b72f/Fun%C3%A7%C3%B5es_FATEC_de_Jo%C3%A3o_Victor_da_Silva_Jardim.ipynb)
 - [Exercícios de matrizes COLAB](https://github.com/JarJv/Academico/blob/b9db7df4e3828ef139e5bae353c483fea37d503d/Matrizes_FATEC_Jo%C3%A3o_Victor_da_Silva_Jardim.ipynb)
-- [Avaliação final](https://github.com/JarJv/Academico/blob/4bd004fc9ecf46dab8d55646b4ed5d5d018c5393/P2_Algoritmo.ipynb)
+- [Avaliação final]([https://github.com/JarJv/Academico/blob/4bd004fc9ecf46dab8d55646b4ed5d5d018c5393/P2_Algoritmo.ipynb](https://github.com/JarJv/Academico/blob/ae7075784298f0dc5281e441410ba7f99d195f79/P2_Algoritmo.ipynb))
